@@ -1,0 +1,142 @@
+[
+  {
+    "id": "fb01",
+    "name": "Salmon",
+    "description": "Sushi-Salmon ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie geräucherter Fisch.",
+    "price": 5,
+    "image": "img/fb01.jpg"
+  },
+  {
+    "id": "fb02",
+    "name": "Ebi",
+    "description": "Sushi-Ebiist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher oder geräucherter Fisch.",
+    "price": 5,
+    "image": "img/fb02.jpg"
+  },
+  {
+    "id": "fb03",
+    "name": "Maguro",
+    "description": "Sushi-Maguro ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie Nori (getrockneter und gerösteter Seetang).",
+    "price": 4,
+    "image": "img/fb03.jpg"
+  },
+  {
+    "id": "fb04",
+    "name": "Ika",
+    "description": "Sushi-Ikai ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie Gemüse.",
+    "price": 4,
+    "image": "img/fb04.jpg"
+  },
+  {
+    "id": "fb05",
+    "name": "Hotate",
+    "description": "Sushi-Hotate ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher  Fisch, rohe Meeresfrüchte.",
+    "price": 4,
+    "image": "img/fb05.jpg"
+  },
+  {
+    "id": "fb06",
+    "name": "Tamago",
+    "description": "Sushi-Tamago ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie Tofuvarianten und Ei.",
+    "price": 6,
+    "image": "img/fb06.jpg"
+  },
+  {
+    "id": "fb07",
+    "name": "Amaebi",
+    "description": "Sushi-Amaebi ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie geräucherter Fisch, rohe Meeresfrüchte.",
+    "price": 5,
+    "image": "img/fb07.jpg"
+  },
+  {
+    "id": "fb08",
+    "name": "Unagi",
+    "description": "Sushi-Unagi ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie rohe Meeresfrüchte und Ei.",
+    "price": 7,
+    "image": "img/fb08.jpg"
+  },
+  {
+    "id": "fb09",
+    "name": "Tako",
+    "description": "Sushi-Takoist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie geräucherter Fisch und rohe Meeresfrüchte.",
+    "price": 5,
+    "image": "img/fb09.jpg"
+  },
+  {
+    "id": "fb10",
+    "name": "Shimesaba",
+    "description": "Sushi-Shimesaba ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher Fisch, Nori (getrockneter und gerösteter Seetang)und Tofuvarianten.",
+    "price": 7,
+    "image": "img/fb10.jpg"
+  },
+  {
+    "id": "fb11",
+    "name": "Ikura",
+    "description": "Sushi-Ikura ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie Gemüse und  Kaviar.",
+    "price": 8,
+    "image": "img/fb11.jpg"
+  },
+  {
+    "id": "fb12",
+    "name": "Uni",
+    "description": "Sushi-Uni ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie geräucherter Fisch und Gemüse.",
+    "price": 3,
+    "image": "img/fb12.jpg"
+  },
+  {
+    "id": "fb13",
+    "name": "Ikurataru",
+    "description": "Sushi-Ikurataru ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie Kaviar.",
+    "price": 13,
+    "image": "img/fb13.jpg"
+  },
+  {
+    "id": "fb14",
+    "name": "Sushi-Sakanataru",
+    "description": "Sushi-Sakanataru ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher oder geräucherter Fisch, rohe Meeresfrüchte und Gemüse.",
+    "price": 8,
+    "image": "img/fb14.jpg"
+  },
+  {
+    "id": "fb15",
+    "name": "Yasaitamago",
+    "description": "Sushi-Yasaitamago ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher oder geräucherter Fisch, rohe Meeresfrüchte, Nori (getrockneter und gerösteter Seetang), Gemüse, Tofuvarianten und Ei.",
+    "price": 8,
+    "image": "img/fb15.jpg"
+  },
+  {
+    "id": "fb16",
+    "name": "Yasaikyabia",
+    "description": "Sushi-Yasaikyabia ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher oder geräucherter Fisch, rohe Meeresfrüchte, Nori (getrockneter und gerösteter Seetang), Gemüse, Tofuvarianten und Ei.",
+    "price": 15,
+    "image": "img/fb16.jpg"
+  },
+  {
+    "id": "fb17",
+    "name": "Yasaibaggu",
+    "description": "Sushi-Yasaibaggu ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher oder geräucherter Fisch, rohe Meeresfrüchte, Nori (getrockneter und gerösteter Seetang), Gemüse, Tofuvarianten und Ei.",
+    "price": 15,
+    "image": "img/fb17.jpg"
+  },
+  {
+    "id": "fb18",
+    "name": "Sakanabaggu",
+    "description": "Sushi-Sakanabaggu ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher oder geräucherter Fisch, rohe Meeresfrüchte, Nori (getrockneter und gerösteter Seetang), Gemüse, Tofuvarianten und Ei.",
+    "price": 15,
+    "image": "img/fb18.jpg"
+  },
+  {
+    "id": "fb19",
+    "name": "Wasabikatamari",
+    "description": "Sushi-Wasabikatamari ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher oder geräucherter Fisch, rohe Meeresfrüchte, Nori (getrockneter und gerösteter Seetang), Gemüse, Tofuvarianten und Ei.",
+    "price": 3,
+    "image": "img/fb19.jpg"
+  },
+  {
+    "id": "fb20",
+    "name": "Sakanakatamari",
+    "description": "Sushi-Sakanakatamari ist ein japanisches Gericht aus erkaltetem, gesäuertem Reis, ergänzt um Zutaten wie roher oder geräucherter Fisch, rohe Meeresfrüchte, Nori (getrockneter und gerösteter Seetang), Gemüse, Tofuvarianten und Ei.",
+    "price": 3,
+    "image": "img/fb20.jpg"
+  }
+]

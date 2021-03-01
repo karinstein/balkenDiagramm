@@ -1,0 +1,112 @@
+#main {
+    width: 800px;
+    height: 100px;
+    /* background-color: rgb(162, 171, 182); */
+    padding:5px;
+}
+
+#neuesSpiel,#seiteNeuLaden,#myColorText,#whichTurnText,#diceBtn {
+    font-family: sans-serif;
+    font-size: 20px;
+    height: 36px;
+    border-radius: 3px;
+    margin: 10px;
+    float: left;
+}
+
+#diceBtn {
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    float: right;
+    background-image: url('../img/dice_36_36.png');
+}
+
+#spielFeld {
+    border: 1px solid #777;
+    border-radius: 3px;
+}
+
+#myColor, #whichTurn, #diceValue {
+    height: 20px;
+    width: 20px;
+    float: left;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#diceValue {
+    float: right;
+    min-width: 38px;
+    width: auto;
+    text-align: center;
+}
+
+/* .circle {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+} */
+
+#main {
+    /* width: 800px;
+    height: 100px;
+    padding:5px; */
+    background-color: rgb(162, 171, 182);
+}
+
+#spielFeld,#inventory {
+    box-sizing: border-box;
+    font-size: 20px;
+    border: 1px solid #777;
+    border-radius: 0px;
+    margin: 2px;
+    float: left;
+    height: auto;
+    padding: 0;
+}
+
+#diceBtn {
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    float: right;
+    background-image: url('./img/dice_36_36.png');
+}
+
+#spielFeld {
+    width: 65%;
+    background-color: 'red';
+    /* background-color: #bcd3f7; */
+}
+
+#inventory {
+    width: 30%;
+}
+
+.tile {
+  float: left;
+}
+
+.inventoryTile {
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  display: block;
+  margin: 8px;
+  font-size: 20px;
+  border: 1px solid #777;
+  border-radius: 0px;
+}
+
+button {
+  display: block;
+  height: 40px;
+  margin: 8px;
+}
