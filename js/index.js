@@ -3,6 +3,8 @@
 // VARIABLEN
 const body = document.querySelector('body');
 
+// all functions are in functions.js
+
 // EVENT-LISTENERS
 
 // INIT
